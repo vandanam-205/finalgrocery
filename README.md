@@ -1,2 +1,2 @@
 # finalgrocery
-this is my final priject
+this is my final project
